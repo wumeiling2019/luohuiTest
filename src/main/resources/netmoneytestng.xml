@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="大网钱接口测试">
+<!--    <test name="大网钱H5随机测试">
+        <classes>
+            <class name="com.wml.cases.netMoney.NetMoneyH5Register"/>
+            <methods>
+                <include name="netMoneyH5Register"/>
+            </methods>
+        </classes>
+    </test>-->
+
+
+    <test name="大网钱H5根据excel执行测试用例">
+        <classes>
+            <class name="com.wml.cases.netMoney.NetMoneyH5Register"/>
+            <methods>
+                <include name="netMoneyH5Register_excel"/>
+            </methods>
+        </classes>
+    </test>
+
+    <!-- 生成报告的监听器 -->
+    <listeners>
+        <listener class-name="com.wml.config.ExtentTestNGIReporterListemer"/>
+    </listeners>
+</suite>

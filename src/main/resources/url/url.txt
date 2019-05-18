@@ -1,0 +1,4 @@
+qdxH5=http://dev.qdx.zanfin.com/promotion/api/proxy
+hzH5=http://dev.proxy.zanfin.com/api/proxy
+App=http://dev.proxy.zanfin.com/api/proxy
+NetMoneyH5=http://dev.m.zanfin.com/api/proxy

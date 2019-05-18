@@ -1,0 +1,15 @@
+{
+	"system": {
+		"identifier": "com.wisdom.market.dev",
+		"appVersion": "1.1.1",
+		"appType": "Android",
+		"bundleVersion": 674,
+		"channel": "wisdom_meizu",
+		"deviceId": "742fb7e085c960d9",
+		"systemVersion": "8.0.0",
+		"hardware": "PIC-AL00"
+	},
+	"apiKey": "wisdom.loan.user.loginBySMS",
+	"data": "{\"phoneNumber\":\"13500506654\",\"verifyCode\":\"114748\"}",
+	"sign": "97915858126fd55eaf97c2ec1d410dac"
+}

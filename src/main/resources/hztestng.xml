@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="华赞接口测试">
+    <test name="华赞H5随机测试">
+        <classes>
+            <class name="com.wml.cases.hz.HzH5Register"/>
+            <methods>
+                <include name="hzRegister"/>
+            </methods>
+        </classes>
+    </test>
+
+<!--    <test name="根据excel执行测试用例">
+        <classes>
+            <class name="com.wml.cases.hz.HzH5Register"/>
+            <methods>
+                <include name="H5_Register_excel"/>
+            </methods>
+        </classes>
+    </test>-->
+
+    <!-- 生成报告的监听器 -->
+    <listeners>
+        <listener class-name="com.wml.config.ExtentTestNGIReporterListemer"/>
+    </listeners>
+</suite>

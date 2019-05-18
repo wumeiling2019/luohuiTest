@@ -1,0 +1,15 @@
+{
+	"apiKey": "wisdom.netmoney.loan.firstRegister",
+	"data": "{\"username\":\"测试\",\"appSex\":0,\"mobile\":\"13813141111\",\"creditCard\":1,\"userAgent\":\"mozilla/5.0 (linux; android 6.0; nexus 5 build/mra58n) applewebkit/537.36 (khtml, like gecko) chrome/66.0.3359.139 mobile safari/537.36\",\"isPos\":\"1\",\"province\":\"\",\"city\":\"\",\"district\":\"\",\"address\":\"\"}",
+	"session": {},
+	"sign": "ee180a52cd0d3cde822489e47971ee1a",
+	"system": {
+		"appType": "H5",
+		"appVersion": "1.0.0",
+		"bundleVersion": 0,
+		"channel": "",
+		"hardware": "cancro",
+		"identifier": "com.wisdom.market.dev",
+		"systemVersion": "6.0.1"
+	}
+}

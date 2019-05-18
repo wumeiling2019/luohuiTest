@@ -1,0 +1,22 @@
+{
+    "system":{
+        "identifier":"com.wisdom.market.dev",
+        "appVersion":"1.0.0",
+        "appType":"H5",
+        "bundleVersion":0,
+        "channel":"",
+        "systemVersion":"6.0.1",
+        "hardware":"cancro"
+    },
+    "apiKey":"wisdom.loan.captcha.loanOfficerSendSmsReg",
+    "data":{
+        "verifyCode":"",
+        "phone":"15303202070",
+        "type":10000,
+        "captchaId":""
+    },
+    "session":{
+
+    },
+    "sign":"50e85fdb7b1b8f91e2d5040e60b1424b"
+}

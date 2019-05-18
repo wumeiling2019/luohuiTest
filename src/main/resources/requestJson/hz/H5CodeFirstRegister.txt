@@ -1,0 +1,18 @@
+{
+	"system": {
+		"identifier": "com.wisdom.market.dev",
+		"appVersion": "1.0.0",
+		"appType": "h5",
+		"bundleVersion": 0,
+		"channel": "CS0011huazan0370",
+		"systemVersion": "6.0.1",
+		"hardware": "cancro"
+	},
+	"apiKey": "wisdom.loan.user.registerPublic",
+	"data": "{\"requestAddress\":\"http://dev.hz.zanfin.com/promotion/#/hzregisterc?qd=ceshi\",\"phoneNumber\":\"15307861956\",\"verifyCode\":\"317145\",\"gender\":0,\"memberName\":\"张三\",\"userAgent\":\"mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/66.0.3359.139 safari/537.36\",\"channelCode\":\"CS0011huazan0370\"}",
+	"session": {
+		"userId": "",
+		"token": ""
+	},
+	"sign": "9339412d5de27ad6908b7e0000c44ec7"
+}

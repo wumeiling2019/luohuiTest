@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="抢单侠接口测试">
+    <test name="抢单侠H5随机测试">
+        <classes>
+            <class name="com.wml.cases.qdx.QdxH5Register"/>
+            <methods>
+                <include name="H5Register"/>
+            </methods>
+        </classes>
+    </test>
+
+
+    <!-- 生成报告的监听器 -->
+    <listeners>
+        <listener class-name="com.wml.config.ExtentTestNGIReporterListemer"/>
+    </listeners>
+</suite>

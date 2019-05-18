@@ -1,0 +1,15 @@
+{
+	"system": {
+		"identifier": "com.wisdom.market.dev",
+		"appVersion": "1.0.0",
+		"appType": "H5",
+		"bundleVersion": 0,
+		"channel": "",
+		"systemVersion": "6.0.1",
+		"hardware": "cancro"
+	},
+	"apiKey": "wisdom.loan.officer.registerPublic",
+	"data": "{\"password\":\"\",\"loanInviterCode\":\"\",\"phoneNumber\":\"15907852141\",\"verifyCode\":\"996888\",\"userAgent\":\"mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/66.0.3359.139 safari/537.36\",\"channelCode\":\"A005qiangdanxia0368\"}",
+	"session": {},
+	"sign": "98ac3cf1537027db218875fa5c2d907e"
+}

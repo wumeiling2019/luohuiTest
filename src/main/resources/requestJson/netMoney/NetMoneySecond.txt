@@ -1,0 +1,15 @@
+{
+	"apiKey": "wisdom.netmoney.loan.secondRegister",
+	"data": "{\"city\":\"扬州\",\"appBirthday\":\"1990-01-01\",\"loanMoney\":\"1万-2万\",\"security\":1,\"fund\":1,\"house\":1,\"hasHouseLoan\":1,\"car\":1,\"hasCarLoan\":1,\"policy\":1,\"weilidai\":1,\"dwqCode\":\"20190404161056010018092924199\"}",
+	"session": {},
+	"sign": "e4208f997d388cf55817ae124673c7b2",
+	"system": {
+		"appType": "H5",
+		"appVersion": "1.0.0",
+		"bundleVersion": 0,
+		"channel": "",
+		"hardware": "cancro",
+		"identifier": "com.wisdom.market.dev",
+		"systemVersion": "6.0.1"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"system": {
+		"identifier": "com.wisdom.lender",
+		"appVersion": "1.2.2",
+		"appType": "Android",
+		"bundleVersion": 852,
+		"channel": "wisdom_meizu",
+		"deviceId": "742fb7e085c960d9",
+		"systemVersion": "8.0.0",
+		"hardware": "PIC-AL00"
+	},
+	"apiKey": "wisdom.loan.officer.loginBySMS",
+	"data": "{\"phoneNumber\":\"15106514901\",\"verifyCode\":\"235891\"}",
+	"sign": "477ae3bb5317cbbb5e16a36069c0f882"
+}

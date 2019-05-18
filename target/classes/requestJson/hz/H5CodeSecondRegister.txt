@@ -1,0 +1,18 @@
+{
+	"system": {
+		"identifier": "com.wisdom.market.dev",
+		"appVersion": "1.0.0",
+		"appType": "h5",
+		"bundleVersion": 0,
+		"channel": "CS0011huazan0370",
+		"systemVersion": "6.0.1",
+		"hardware": "cancro"
+	},
+	"apiKey": "wisdom.loan.userInfo.generalizeUpdateUserInfo",
+	"data": "{\"birthday\":\"1990-01-01\",\"loanAdCodeSecond\":\"\",\"titleReqList\":[{\"optionKey\":[\"loan_amount_50000-100000\"],\"titleKey\":\"loan_amount\"},{\"optionKey\":[\"loan_time_limit_36\"],\"titleKey\":\"loan_time_limit\"},{\"optionKey\":[\"local_census_register\"],\"titleKey\":\"family_register_type\"},{\"optionKey\":[\"employees\"],\"titleKey\":\"job_type\"},{\"optionKey\":[\"transfer_accounts\"],\"titleKey\":\"salary_type\"},{\"optionKey\":[\"monthly_income_<3000\"],\"titleKey\":\"monthly_income\"},{\"optionKey\":[\"credit_card_yes\"],\"titleKey\":\"credit_card\"},{\"optionKey\":[\"is_social_security_yes\"],\"titleKey\":\"is_social_security\"},{\"optionKey\":[\"is_accumulation_fund_no\"],\"titleKey\":\"is_accumulation_fund\"},{\"optionKey\":[\"own_house_yes\"],\"titleKey\":\"own_house\"},{\"optionKey\":[\"house_loan_no\"],\"titleKey\":\"house_loan\"},{\"optionKey\":[\"own_car_yes\"],\"titleKey\":\"own_car\"},{\"optionKey\":[\"car_loan_yes\"],\"titleKey\":\"car_loan\"},{\"optionKey\":[\"guarantee_slip_no\"],\"titleKey\":\"guarantee_slip\"},{\"optionKey\":[\"Weilidai_no\"],\"titleKey\":\"Weilidai\"}],\"loanCityNameSecond\":\"徐州\",\"loanUserCode\":\"20190403140103070122228486522\"}",
+	"session": {
+		"userId": "",
+		"token": ""
+	},
+	"sign": "b5501213645cac354ec593befc8ea8f5"
+}
